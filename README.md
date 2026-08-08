@@ -77,6 +77,9 @@ The dashboard provides:
 - Employee-wise work-hour comparison
 - Attendance status chart
 - Employee summary
+- ### Dashboard Preview
+
+![Employee Attendance Dashboard](screenshots/attendance-dashboard.png)
 
 ## 🔐 Privacy
 This public portfolio version uses anonymized employee names. Do **not** upload the original company attendance file or any file containing real employee personal information.
