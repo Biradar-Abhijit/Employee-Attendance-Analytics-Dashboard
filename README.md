@@ -71,14 +71,16 @@ Employee-Attendance-Analytics-Dashboard/
 ```
 
 ## 📊 Dashboard
+
 The dashboard provides:
 - Overall attendance KPIs
 - Employee-wise attendance comparison
 - Employee-wise work-hour comparison
 - Attendance status chart
 - Employee summary
-- ### Dashboard Preview
-- ![Employee Attendance Dashboard](screenshots/Screenshot%202026-08-08%20180418.png)
+
+### Dashboard Preview
+![Employee Attendance Dashboard](screenshots/attendance-dashboard.png)
 
 ## 🔐 Privacy
 This public portfolio version uses anonymized employee names. Do **not** upload the original company attendance file or any file containing real employee personal information.
